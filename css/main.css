@@ -1,0 +1,29 @@
+/*
+  -----------------------
+  Base Page Styles
+  -----------------------
+*/
+body, html {
+  background: #dedede;
+}
+
+.main {
+  width: 750px;
+  box-sizing: border-box;
+  background: #fff;
+  margin: 0 auto;
+  padding: 60px 40px;
+}
+
+@media (min-width: 950px){
+  .main {
+    width: 950px;
+  }
+}
+
+
+/*
+  -----------------------
+  Your Styles
+  -----------------------
+*/
